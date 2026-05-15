@@ -1,5 +1,4 @@
 [index.html.txt](https://github.com/user-attachments/files/27813522/index.html.txt)
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
