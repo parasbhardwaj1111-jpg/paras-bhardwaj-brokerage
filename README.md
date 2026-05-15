@@ -58,19 +58,5 @@
     <section id="contact" class="section">
         <h2>Contact Us</h2>
 
-        <form>
-            <input type="text" placeholder="Your Name" required>
-            <input type="email" placeholder="Your Email" required>
-            <textarea placeholder="Your Message"></textarea>
-
-            <button type="submit">Send Message</button>
-        </form>
-
-        <p>Email: parasbhardwaj4545@gmail.com</p>
-    </section>
-
-    <footer>
-        <p>© 2026 Paras Bhardwaj Brokerage Firm. All Rights Reserved.</p>
-    </footer>
-
+        
     
