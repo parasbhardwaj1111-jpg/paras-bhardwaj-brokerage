@@ -1,4 +1,4 @@
-[index.html.txt](https://github.com/user-attachments/files/27813522/index.html.txt)
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,11 +76,9 @@
     <script src="script.js"></script>
 </body>
 </html>
-[script.js.txt](https://github.com/user-attachments/files/27813550/script.js.txt)
 function showMessage() {
     alert("Welcome to Paras Bhardwaj Brokerage Firm!");
 }
-[style.css.txt](https://github.com/user-attachments/files/27813557/style.css.txt)
 body {
     margin: 0;
     font-family: Arial, sans-serif;
